@@ -1,0 +1,104 @@
+{
+    "questions": [{
+            "questionText": "In Angular, you can pass data from the parent component to the child component by using?",
+            "options": [
+                {
+                    "text": "@Output()"
+                },
+                {
+                    "text": "@Input()",
+                    "correct": true
+                },
+                {
+                    "text": "Input"
+                },
+                {
+                    "text": "Output"
+                }
+
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which directive connects the value of the controls to the data?",
+            "options": [
+                {
+                    "text": "ng-app"
+                },
+                {
+                    "text": "ng-init"
+                },
+                {
+                    "text": "ng-model",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "In Angular routing, which tag is used to render matched component via active route?",
+            "options": [{
+                    "text": "<router></router>"
+                },
+                {
+                    "text": "<router-output></router-output"
+                    
+                },
+                {
+                    "text": "<router-outlet></router-outlet>",
+                    "correct": true
+                },
+                {
+                    "text": "<router-display></router-display>"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which method of RouterModule should be called for providing all routes in AppModule?",
+            "options": [{
+                    "text": "RouterModule.forChild"
+                },
+                {
+                    "text": "RouterModule.forRoot",
+                    "correct": true
+                    
+                },
+                {
+                    "text": "RouterModule"
+                   
+                },
+                {
+                    "text": "RouterModule.import"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which component represents “target/host” DOM element inside Directive’s constructor?",
+            "options": [{
+                    "text": "Element"
+                },
+                {
+                    "text": "Host"
+                   
+                    
+                },
+                {
+                    "text": "Target"
+                   
+                },
+                {
+                    "text": "ElementRef",
+                    "correct":true
+                }
+            ],
+            "explanation": ""
+        }
+        
+        
+
+        
+       
+    ]
+}
